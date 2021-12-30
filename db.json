@@ -1,12 +1,11 @@
 {
 "results": [
   {
-    "id": 30634,
-    "title": "Organize Isler",
-    "overview": "A struggling, suicidal young comedian meets a car thief who is willing to teach him a few things about his profession.",
-    "backdrop_path": "/gnyZRWAwdGloChFlJ7OA2YSxt7f.jpg",
-    "poster_path": "/8SbZagV8QR4gPV3bF63yfaRYm4T.jpg",
-    "vote_average": 6.6
+    "rank": 10,
+    "book_image": "https://storage.googleapis.com/du-prd/books/images/9781982173616.jpg",
+    "title": "BILLY SUMMERS",
+    "author": "Stephen King",
+    "description": "A killer for hire who only takes out bad guys seeks redemption as he does one final job."
   }
 ]
 }
